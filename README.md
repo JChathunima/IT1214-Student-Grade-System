@@ -8,6 +8,7 @@ The system allows teachers to:
 - Display all student records
 - Search students by ID
 - Calculate average marks
+- 
 
 ## Technologies Used
 - Java
